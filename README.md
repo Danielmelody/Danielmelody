@@ -6,6 +6,9 @@ My interest mainly focus on graphics and programming languages , but always inte
 
 I hate 996.
 
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielmelody)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmelody&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Danielmelody/Danielmelody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
