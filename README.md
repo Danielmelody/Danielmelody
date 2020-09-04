@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I',m Daniel
+
+Working & living in Shenzhen now.
+
+My interest mainly focus on graphics and programming languages , but always interested in cool things. 
+
+I hate 996.
 
 <!--
 **Danielmelody/Danielmelody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
