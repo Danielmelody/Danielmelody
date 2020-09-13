@@ -4,7 +4,7 @@ Working & living in Shenzhen now.
 
 My interest mainly focus on graphics and programming languages , but always interested in cool things. 
 
-I hate 996.
+*This profile is released with [Anti-996](LICENSE) License*
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielmelody)](https://github.com/anuraghazra/github-readme-stats)
 
