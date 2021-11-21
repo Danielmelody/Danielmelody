@@ -1,6 +1,6 @@
 ### Hi, I',m Daniel
 
-Working & living in Shenzhen now.
+Working & living in Shanghai.
 
 My interest mainly focus on graphics and programming languages , but always interested in cool things. 
 
